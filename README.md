@@ -242,7 +242,7 @@ Służy do długoterminowego przechowywania danych, często w celach historyczny
 
 ## Główny wniosek
 
-Backup ma wartość dopiero wtedy, gdy można poprawnie wykonać poprawne odzyskiwanie danych. Z tego powodu kluczowym elementem tworzenia i utrzymywania kopii zapasowej jest jej testowanie.
+Backup ma wartość dopiero wtedy, gdy można poprawnie wykonać prawidłowe odzyskiwanie danych. Z tego powodu kluczowym elementem tworzenia i utrzymywania kopii zapasowej jest jej testowanie.
 
 ---
 
@@ -258,3 +258,11 @@ W laboratorium zrealizowano:
 * konfigurację środowiska backupowego,
 * analizę logów,
 * praktyczne scenariusze odzyskiwania danych.
+
+---
+
+
+## **👨‍💻** Autor
+
+**Mateusz Markiewicz -** Projekt zrealizowany w ramach praktycznej nauki i stanowi część portfolio
+
